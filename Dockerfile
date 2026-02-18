@@ -1,1 +1,1 @@
-FROM airbyte/airbyte:latest
+FROM airbyte/airbyte-platform:latest
